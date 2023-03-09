@@ -8,8 +8,6 @@
 #include "Sprite.cpp"
 
 
-#include "../assets/Game.cpp"
-
 
 
 App::App( Window* parentWindow ){
